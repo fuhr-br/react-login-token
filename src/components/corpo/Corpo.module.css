@@ -1,0 +1,17 @@
+
+.main {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+  min-height: 80vh;
+}
+
+.box {
+  width: 400px;
+  height: 150px;
+  background-color: #f0f0f0;
+  margin-bottom: 20px;
+}
